@@ -17,7 +17,7 @@ Para exponer la API se creó un servicio tipo NodePort el cual expone un puerto 
 - Build  de las imagenes del API y el Consumer
 - Subir a Docker-hub
 - Crear los manifiestos
-- namespace: educacionit
+- namespace: devops
 - Deployments y aplicarlos en el cluster eks
 - Service de tipo Nodeport
 
